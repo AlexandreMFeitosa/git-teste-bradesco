@@ -8,3 +8,4 @@ Testando GIT do Curso Bradesco
 *uso do comando restore
 
 *comando git push .2
+* comando git pull
